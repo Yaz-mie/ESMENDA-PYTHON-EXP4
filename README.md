@@ -9,7 +9,6 @@
 ## Description  
 
 This Jupyter Notebook demonstrates **data wrangling and data visualization** techniques using **Pandas, Matplotlib, and Seaborn**.  
-The dataset used is the **ECE Board Exam 2 Dataset**.  
 
 The problems solved include:    
 1. **Data Wrangling** – Filtering the dataset to create specific DataFrames based on conditions.  
